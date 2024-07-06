@@ -44,6 +44,7 @@ body{
   color: aqua;
   font-weight: 600;
   list-style: none;
+  text-decoration: none;
   
   
 }
@@ -52,6 +53,7 @@ body{
   color: blue;
   cursor: pointer;
   list-style: none;
+ 
  
 }
 
