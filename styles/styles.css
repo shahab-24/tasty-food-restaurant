@@ -71,7 +71,7 @@ body{
       rgb(16, 16, 16) -19.5%,
       rgba(16, 16, 16, 0) 100%
     ),
-    url("/assets/hero-bg.png");
+    url("./assets/hero-bg.png");
 
   height: 650px;
   background-size: cover;
@@ -184,7 +184,7 @@ background: rgba(82, 195, 3, 0.15);
   display: flex;
   justify-content: center;
   align-items: center;
-  gap:10px
+  gap:10px;
   /* width: 800px;
   height: 200px; */
   margin-left: auto;
